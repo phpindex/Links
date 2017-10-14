@@ -7,3 +7,4 @@ https://www.codecourse.com/lessons/laravel-private-messages-dashboard
 https://www.codecourse.com/lessons/laravel-avatar-uploads
 https://www.codecourse.com/lessons/laravel-chatroom
 https://www.codecourse.com/lessons/git-and-github
+https://laracasts.com
