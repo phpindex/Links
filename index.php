@@ -8,3 +8,4 @@ https://www.codecourse.com/lessons/laravel-avatar-uploads
 https://www.codecourse.com/lessons/laravel-chatroom
 https://www.codecourse.com/lessons/git-and-github
 https://laracasts.com
+https://www.youtube.com/watch?v=iQlJbGXfk0Y 
